@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DotsAndBoxesGame</string>
+    <string name="Instructions">INSTRUCTIONS \nThis is a dot and boxes and game \nClick between the dots to connect the dots \n Enter the size of the game you want to play   </string>
+</resources>
